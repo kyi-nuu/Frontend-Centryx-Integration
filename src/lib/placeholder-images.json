@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "smart-lighting",
+      "description": "Illuminate your world with our intelligent lighting solutions, offering dynamic control and energy efficiency.",
+      "imageUrl": "https://images.unsplash.com/photo-1682220784379-e0ce4380db64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMGxpZ2h0fGVufDB8fHx8MTc2MzIwMTg4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract light"
+    },
+    {
+      "id": "cctv-monitoring",
+      "description": "Keep a watchful eye on your premises with our high-definition, real-time CCTV monitoring system.",
+      "imageUrl": "https://images.unsplash.com/photo-1632910061325-10116ac047e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0ZWNobm9sb2d5JTIwc2VjdXJpdHl8ZW58MHx8fHwxNzYzMTIzMDQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "technology security"
+    },
+    {
+      "id": "unified-dashboard",
+      "description": "Manage all your systems from a single, intuitive dashboard, accessible from anywhere.",
+      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkYXRhJTIwdmlzdWFsaXphdGlvbnxlbnwwfHx8fDE3NjMxNjIzNzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data visualization"
+    }
+  ]
+}
